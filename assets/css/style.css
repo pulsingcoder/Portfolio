@@ -1096,3 +1096,10 @@ section {
   color:white;
   margin-bottom: 24px;
 }
+
+
+.storesIcon {
+  position: relative;
+  width: 150px;
+  height: 40px;
+}
